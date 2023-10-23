@@ -12,6 +12,8 @@
 
 #### 스터디 목표
 
+0. 비전공자들의 기업 코딩 테스트 도전기
+
 1. 매일, 고민해볼 만한 문제를 최소 1문제 이상 푸는 것
 2. [solved.ac](https://solved.ac/) 스트릭 유지
 3. 현재 : 코딩 테스트 출제 수준(백준 티어 Gold) 문제에 대해 1일 1문제 풀기
@@ -27,6 +29,10 @@
 
 - streak break : 3,000원
 - 공통 풀이 문제 미풀이 : 2,000원
+- 2 strike out 
+  - 월 1회 streak break : Yellow card
+  - two Yellow card : Red card, Out
+
 
 #### 스터디원 명단 (현재 14명)
 
