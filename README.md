@@ -17,8 +17,9 @@
   3. `2023.10.` 기준 약 300문제 출제
 - 스터디원 스트릭 유지, 멘탈 케어 및 벌금 제도 운영 등 전반적인 스터디 관리
 - 매월, SSAFY 온라인 스터디 운영 결과 보고서 작성 및 제출
-  - [2023년 8월 잔디가득심기 스터디 결과 보고서](https://github.com/Johyonghoon/group-study-Planting-Grass/tree/master/Aug_2023)
-  - [2023년 9월 잔디가득심기 스터디 결과 보고서](https://github.com/Johyonghoon/group-study-Planting-Grass/tree/master/Sep_2023)
+  - [2023년 8월 잔디가득심기 스터디 결과 보고서](https://github.com/Johyonghoon/group-study-Planting-Grass/tree/master/202308)
+  - [2023년 9월 잔디가득심기 스터디 결과 보고서](https://github.com/Johyonghoon/group-study-Planting-Grass/tree/master/202309)
+  - [2023년 10월 잔디가득심기 스터디 결과 보고서](https://github.com/Johyonghoon/group-study-Planting-Grass/tree/master/202310)
 
 ### 스터디 운영 계획
 
@@ -38,7 +39,7 @@
 - 어떤 문제를 풀더라도, 구체적인 알고리즘 풀이 방식을 설명하는 주석 삽입
 - 목표시간(1~2시간)을 설정하고 문제 풀이에 실패 시 스터디원들에게 아이디어를 구하거나 구글링을 통해 풀이 방법 찾기. 그 대신 코드를 그대로 복사해서 문제를 해결하지 않고 그 풀이 방법을 기반으로 스스로 코드 작성하기
 
-#### 패널티 제도 (10월 23일 부)
+#### 페널티 제도 (10월 23일 부)
 
 - streak break : 3,000원
 - 공통 풀이 문제 미풀이 : 2,000원
