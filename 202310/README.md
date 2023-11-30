@@ -106,8 +106,8 @@
 
 ###### 김영준
 
-- 9월 문제 풀이 : 33문제
-- 9월 스트릭 유지 : **FULL(27일)**
+- 10월 문제 풀이 : 33문제
+- 10월 스트릭 유지 : **FULL(27일)**
 
 ![Oct_2023_BOJ_KYJ](images/Oct_2023_BOJ_KYJ.png)
 
@@ -162,31 +162,31 @@
 
 ###### 조용훈
 
-- 9월 문제 풀이 : 35문제
-- 9월 스트릭 유지 : **FULL(27일)**
+- 10월 문제 풀이 : 35문제
+- 10월 스트릭 유지 : **FULL(27일)**
 
 ![Oct_2023_BOJ_JYH](images/Oct_2023_BOJ_JYH.png)
 
 ###### 최현기
 
-- 9월 문제 풀이 : **63문제**
-- 9월 스트릭 유지 : **FULL(27일)**
+- 10월 문제 풀이 : **63문제**
+- 10월 스트릭 유지 : **FULL(27일)**
 
 ![Oct_2023_BOJ_CHG](images/Oct_2023_BOJ_CHG.png)
 
 ###### 홍지은
 
-- 9월 문제 풀이 : 31문제
-- 9월 스트릭 유지 : **FULL(27일)**
+- 10월 문제 풀이 : 31문제
+- 10월 스트릭 유지 : **FULL(27일)**
 
 ![Oct_2023_BOJ_HJE](images/Oct_2023_BOJ_HJE.png)
 
 ###### 황준식
 
-- 9월 문제 풀이 : 26문제
-- 9월 스트릭 유지 : **FULL(27일)**
+- 10월 문제 풀이 : 26문제
+- 10월 스트릭 유지 : **FULL(27일)**
 
-![Sep_2023_BOJ_HJS](C:/Users/SSAFY/Desktop/Quiet/group-study-Planting-Grass/202309/images/Sep_2023_BOJ_HJS.png)
+![Oct_2023_BOJ_HJS](images/Oct_2023_BOJ_HJS.png)
 
 
 
